@@ -1,2 +1,3 @@
 # SmallWorks
 Some Lessons from Youtube and Jeremy Gibson Bond (Unity and C#)
+Here I have study some skills for Unity, particle system, shaders, work w simple objects, ...
